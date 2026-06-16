@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/Auth.tsx","./src/components/SubmitVideo.tsx","./src/components/VideoCard.tsx","./src/components/VideoEmbed.tsx","./src/lib/auth-context.tsx","./src/lib/supabase.ts"],"version":"5.9.3"}
